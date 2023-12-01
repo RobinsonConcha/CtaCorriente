@@ -1,2 +1,2 @@
 # CtaCorriente
-# Examen
+# Examen automatización de pruebas
