@@ -1,3 +1,2 @@
 # CtaCorriente
-# CtaCorriente
 # Examen
